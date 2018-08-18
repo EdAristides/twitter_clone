@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-alterei o redem aqui
+alterei o README aqui
